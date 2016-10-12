@@ -1,0 +1,14 @@
+public class cat {
+	string name = 'Sooty';
+	int height = 7;
+	string colour = 'tabby'
+	int age = 7
+}
+
+public class car {
+	string make = 'BMW'
+	string registration = 'AF10 3FO'
+	string colour = 'red'
+	int wheenNum = 4
+	int doorNum = 5
+}
