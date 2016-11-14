@@ -14,7 +14,6 @@ public class DiceRoll {
 		rollsToSnakeEyes = rollToTarget(2);
 		
 		System.out.println("It took " + rollsToSnakeEyes + " attempts to roll snake eyes, bad luck.");
-		
 	}
 	
 	public static int rollToTarget(int target) {
