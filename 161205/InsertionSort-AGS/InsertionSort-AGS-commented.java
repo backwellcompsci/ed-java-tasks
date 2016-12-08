@@ -20,7 +20,7 @@ public class InsertionSort {
     
     return A;}
 
-    public static void printArray(int[]A){
+    public static void printArray(int[]A){      // define 
         for(int i=0; i<A.length; i++){
         System.out.println(A[i]);
     }
