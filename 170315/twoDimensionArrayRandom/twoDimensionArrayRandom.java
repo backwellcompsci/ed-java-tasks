@@ -1,7 +1,7 @@
 /*
  * newBingoGame
  * Edward Callow
- * 1700315
+ * 170315
  */
 
 public class twoDimensionArrayRandom {
